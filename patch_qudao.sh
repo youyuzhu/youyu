@@ -8,7 +8,7 @@ download_azurlane () {
     # 这个链接是MUMU下载的,应该是9游,其他渠道自行修改直链
     #url="https://pkg.biligame.com/games/blhx_6.2.1_bilibili_20221107_143634.apk"
     #这个链接是当乐网
-    url="https://res5.d.cn/4fea10ef16b7b0d5ea0f3a5ad9d3483753ab0106c1a0cdf1d67434fec122fbca9819ee365b07dae4ccbf47d02992f9785f5cc48955b4765f919e8a2ac789488082c80bca10f6617e.apk"
+    url="https://pkg.biligame.com/games/blhx_6.2.1_bilibili_20221107_143634.apk"
     # 使用wget命令下载apk文件
     curl -o blhx.apk  $url
     fi
